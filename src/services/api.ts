@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3001/filmes';
+const API_URL = 'http://localhost:3000/filmes';
 
 export interface Filme {
   id?: number;

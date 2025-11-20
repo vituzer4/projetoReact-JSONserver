@@ -1,31 +1,31 @@
 {
   "filmes": [
     {
-      "id": 1,
-      "titulo": "O Poderoso Chefão",
-      "diretor": "Francis Ford Coppola",
-      "ano": 1972,
-      "genero": "Drama",
-      "nota": 9.2,
-      "poster": "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=O+Poderoso+Chefao"
-    },
-    {
-      "id": 2,
-      "titulo": "Pulp Fiction",
-      "diretor": "Quentin Tarantino",
-      "ano": 1994,
-      "genero": "Crime",
-      "nota": 8.9,
-      "poster": "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Pulp+Fiction"
-    },
-    {
-      "id": 3,
+      "id": "3",
       "titulo": "Interestelar",
       "diretor": "Christopher Nolan",
       "ano": 2014,
       "genero": "Ficção Científica",
       "nota": 8.6,
-      "poster": "https://via.placeholder.com/300x450/1a1a1a/ffffff?text=Interestelar"
+      "poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdjS3XxneEFjCM6VlCiuuN8QavE6.jpg&f=1&nofb=1&ipt=48bf452f097a09d0c547ac52fd7c5e11faebdce4a639acffd18a6b767f28bb7e"
+    },
+    {
+      "id": "43eb",
+      "titulo": "O ultimo Samurai",
+      "diretor": "C.S Lewis",
+      "ano": 2025,
+      "genero": "Ação / Guerra / Drama",
+      "nota": 0,
+      "poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbr.web.img2.acsta.net%2Fmedias%2Fnmedia%2F18%2F91%2F70%2F70%2F20159112.jpg&f=1&nofb=1&ipt=3128c2b4f73ace60135077f6782343be495be06ef68c6bf81a85457b2cf66328"
+    },
+    {
+      "id": "7ea7",
+      "titulo": "Fluminense > Flamengo",
+      "diretor": "Deus",
+      "ano": 2025,
+      "genero": "Realidade",
+      "nota": 10,
+      "poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-DD0hiCIS2x4%2FVuQ5i8pSnuI%2FAAAAAAAAG6E%2FzJotjQcL4DIHhOv_LOLzRZGZudSt-y5fg%2Fs1600%2Fescudo_fluminense.png&f=1&nofb=1&ipt=50df09490398899a56379cba1baa064f0a912f957cc8f20e9d7f0cacbf5aaebd"
     }
   ]
 }
