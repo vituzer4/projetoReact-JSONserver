@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Header from '../componets/Header';
-import Card from '../componets/Card';
-import Form from '../componets/Form';
+import Header from '../components/Header';
+import Card from '../components/Card';
+import Form from '../components/Form';
 import type { Filme } from '../services/api';
 import { getFilmes, createFilme, updateFilme, deleteFilme } from '../services/api';
 import './Home.css';
