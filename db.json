@@ -6,7 +6,7 @@
       "diretor": "Christopher Nolan",
       "ano": 2014,
       "genero": "Ficção Científica",
-      "nota": 8.6,
+      "nota": 9.5,
       "poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdjS3XxneEFjCM6VlCiuuN8QavE6.jpg&f=1&nofb=1&ipt=48bf452f097a09d0c547ac52fd7c5e11faebdce4a639acffd18a6b767f28bb7e"
     },
     {
@@ -15,7 +15,7 @@
       "diretor": "C.S Lewis",
       "ano": 2025,
       "genero": "Ação / Guerra / Drama",
-      "nota": 0,
+      "nota": 10,
       "poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbr.web.img2.acsta.net%2Fmedias%2Fnmedia%2F18%2F91%2F70%2F70%2F20159112.jpg&f=1&nofb=1&ipt=3128c2b4f73ace60135077f6782343be495be06ef68c6bf81a85457b2cf66328"
     },
     {
@@ -26,6 +26,15 @@
       "genero": "Realidade",
       "nota": 10,
       "poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-DD0hiCIS2x4%2FVuQ5i8pSnuI%2FAAAAAAAAG6E%2FzJotjQcL4DIHhOv_LOLzRZGZudSt-y5fg%2Fs1600%2Fescudo_fluminense.png&f=1&nofb=1&ipt=50df09490398899a56379cba1baa064f0a912f957cc8f20e9d7f0cacbf5aaebd"
+    },
+    {
+      "id": "0e41",
+      "titulo": "Harry Potter e o Cálice de Fogo",
+      "diretor": "JK. Rowling",
+      "ano": 2009,
+      "genero": "Ficção e Aventura",
+      "nota": 9.5,
+      "poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.justwatch.com%2Fposter%2F120808343%2Fs718%2Fharry-potter-e-o-calice-de-fogo.jpg&f=1&nofb=1&ipt=93a7013558698a10b3f31e068b7031d320b010d4f954e037c11c09f0d6f6631f"
     }
   ]
 }

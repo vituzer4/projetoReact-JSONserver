@@ -23,7 +23,7 @@ const Home: React.FC = () => {
       setLoading(true);
       setError(null);
       const data = await getFilmes();
-      setFilmes(data);
+      setFilmes(data);''
     } catch (err) {
       setError('Erro ao carregar filmes. Verifique se o JSON Server está rodando.');
       console.error(err);
@@ -31,7 +31,7 @@ const Home: React.FC = () => {
       setLoading(false);
     }
   };
-
+// Funções para manipular filmes
   const handleCreate = async (filme: Filme) => {
     try {
       await createFilme(filme);
@@ -101,7 +101,7 @@ const Home: React.FC = () => {
             className="btn-add-filme" 
             onClick={() => setShowForm(!showForm)}
           >
-            {showForm ? '❌ Cancelar' : '➕ Adicionar Filme'}
+            {showForm ? ' Cancelar' : ' Adicionar Filme'}
           </button>
         </div>
 

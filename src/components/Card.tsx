@@ -31,13 +31,13 @@ const Card: React.FC<CardProps> = ({ filme, onEdit, onDelete }) => {
             className="btn btn-edit" 
             onClick={() => onEdit(filme)}
           >
-            ✏️ Editar
+             Editar
           </button>
           <button 
             className="btn btn-delete" 
             onClick={() => filme.id && onDelete(filme.id)}
           >
-            🗑️ Excluir
+             Excluir
           </button>
         </div>
       </div>
