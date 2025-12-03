@@ -1,3 +1,6 @@
+# Explicação detalhada : 
+https://drive.google.com/file/d/1lk9qMCsQK7-vCUN8oULMOQKvyBsmDyNK/view?usp=drive_link
+
 # 🎬 Catálogo de Filmes Favoritos
 
 Aplicação web para gerenciar um catálogo pessoal de filmes favoritos, desenvolvida com React, TypeScript e JSON Server.
