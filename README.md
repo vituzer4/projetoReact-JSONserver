@@ -168,6 +168,7 @@ O JSON Server disponibiliza os seguintes endpoints:
 **Victor Ricardo**
 - GitHub:(https://github.com/vituzer4)
 - Email: vr.prf.estudo@gmail.com
+- Mátricula: 06045727
 
 ## 📄 Licença
 
